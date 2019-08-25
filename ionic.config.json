@@ -1,0 +1,7 @@
+{
+  "name": "Clipboard",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
